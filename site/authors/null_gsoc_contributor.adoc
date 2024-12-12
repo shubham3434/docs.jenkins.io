@@ -1,6 +1,7 @@
-= About the Author
-:page-layout: author
-:page-author_name: GSoC contributor placeholder
+---
+name: "GSoC contributor placeholder"
+---
 
+This is a GSoC Contributor bio placeholder.
 
-This is a GSoC Contributor bio placeholder. Please create one as soon as possible.
+Please create one as soon as possible.

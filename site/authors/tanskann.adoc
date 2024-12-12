@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Niklas Tanskanen
-:page-github: tanskann
-
-
+---
+name: "Niklas Tanskanen"
+github: "tanskann"
+---

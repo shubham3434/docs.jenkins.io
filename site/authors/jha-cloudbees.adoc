@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: John Ha
-:page-github: jha-cloudbees
-
-
+---
+name: "John Ha"
+github: jha-cloudbees
+---

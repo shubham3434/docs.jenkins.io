@@ -1,9 +1,8 @@
-= About the Author
-:page-layout: author
-:page-author_name: Olivier Vernin
-:page-twitter: 0lblak
-:page-github: olblak
-:page-irc: olblak
-:page-authoravatar: ../../images/images/avatars/olblak.png
-
-Olivier is the Jenkins infrastructure officer and Senior Operations Engineer at CloudBees. As a regular contributor to the Jenkins infrastructure projects, he works on a wide range of tasks from services reliability to applications maintenance.
+---
+name: "Olivier Vernin"
+twitter: 0lblak
+github: olblak
+irc: olblak
+---
+Olivier is the Jenkins infrastructure officer and Senior Operations Engineer at CloudBees.
+As a regular contributor to the Jenkins infrastructure projects, he works on a wide range of tasks from services reliability to applications maintenance.

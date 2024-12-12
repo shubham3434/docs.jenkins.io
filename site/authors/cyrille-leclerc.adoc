@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Cyrille Le Clerc
-:page-github: cyrille-leclerc
-
-
+---
+name: Cyrille Le Clerc
+github: cyrille-leclerc
+---

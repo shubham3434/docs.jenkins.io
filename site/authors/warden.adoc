@@ -1,7 +1,5 @@
-= About the Author
-:page-layout: author
-:page-author_name: Radek Antoniuk
-:page-github: warden
-:page-irc: warden
-
-
+---
+name: "Radek Antoniuk"
+github: warden
+irc: "warden"
+---

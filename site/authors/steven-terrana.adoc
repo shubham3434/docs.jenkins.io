@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Steven Terrana
-:page-github: steven-terrana
-
-
+---
+name: "Steven Terrana"
+github: "steven-terrana"
+---

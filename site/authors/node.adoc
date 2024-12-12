@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Yang Zhentao
-:page-github: node
-
-
+---
+name: "Yang Zhentao"
+github: "node"
+---

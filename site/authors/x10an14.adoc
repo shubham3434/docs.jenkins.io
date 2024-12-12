@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Christian Chavez
-:page-github: x10an14
-
-
+---
+name: "Christian Chavez"
+github: "x10an14"
+---

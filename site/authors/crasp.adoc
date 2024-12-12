@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Christian Rasp
-:page-github: crasp
-
-
+---
+name: "Christian Rasp"
+github: "crasp"
+---

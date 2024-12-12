@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Mauro Ferratello
-:page-github: ferratello
-
-
+---
+name: "Mauro Ferratello"
+github: "ferratello"
+---

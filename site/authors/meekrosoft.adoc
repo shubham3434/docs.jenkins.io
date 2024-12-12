@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Mike Long
-:page-github: meekrosoft
-
-
+---
+name: "Mike Long"
+github: "meekrosoft"
+---

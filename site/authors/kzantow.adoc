@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Keith Zantow
-:page-github: kzantow
-
-
+---
+name: "Keith Zantow"
+github: "kzantow"
+---

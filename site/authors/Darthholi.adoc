@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Martin Holeček
-:page-github: Darthholi
-
-
+---
+name: "Martin Holeček"
+github: "Darthholi"
+---

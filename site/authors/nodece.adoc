@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Zixuan Liu
-:page-github: nodece
-
-
+---
+name: "Zixuan Liu"
+github: "nodece"
+---

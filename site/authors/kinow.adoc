@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Bruno P. Kinoshita
-:page-github: kinow
-
-
+---
+name: "Bruno P. Kinoshita"
+github: kinow
+---

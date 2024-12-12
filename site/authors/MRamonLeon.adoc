@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Ramon Leon
-:page-github: MRamonLeon
-
-
+---
+name: "Ramon Leon"
+github: "MRamonLeon"
+---

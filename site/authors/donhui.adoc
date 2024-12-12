@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Wang Donghui
-:page-github: donhui
-
-
+---
+name: "Wang Donghui"
+github: "donhui"
+---

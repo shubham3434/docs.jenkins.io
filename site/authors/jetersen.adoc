@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Joseph Petersen
-:page-github: jetersen
-
-
+---
+name: "Joseph Petersen"
+github: "jetersen"
+---

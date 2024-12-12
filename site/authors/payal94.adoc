@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Payal Priyadarshini
-:page-github: payal94
-
-
+---
+name: "Payal Priyadarshini"
+github: payal94
+---

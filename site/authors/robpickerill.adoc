@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Rob Pickerill
-:page-github: robpickerill
-
-
+---
+name: "Rob Pickerill"
+github: "robpickerill"
+---

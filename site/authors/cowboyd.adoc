@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Charles Lowell
-:page-github: cowboyd
-
-
+---
+name: "Charles Lowell"
+github: cowboyd
+---

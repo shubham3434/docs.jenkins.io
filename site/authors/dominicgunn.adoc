@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Dominic Gunn
-:page-github: dominicgunn
-
-
+---
+name: "Dominic Gunn"
+github: "dominicgunn"
+---

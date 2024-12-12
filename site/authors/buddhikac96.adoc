@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Buddhika Chathuranga
-:page-github: buddhikac96
-
-
+---
+name: "Buddhika Chathuranga"
+github: buddhikac96
+---

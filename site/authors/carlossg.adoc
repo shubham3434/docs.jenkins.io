@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Carlos Sanchez
-:page-github: carlossg
-
-
+---
+name: "Carlos Sanchez"
+github: "carlossg"
+---

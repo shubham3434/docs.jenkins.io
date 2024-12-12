@@ -1,9 +1,7 @@
-= About the Author
-:page-layout: author
-:page-author_name: Jan Faracik
-:page-github: janfaracik
-:page-twitter: janfaracik
-:page-linkedin: janfaracik
-:page-authoravatar: ../../images/images/avatars/janfaracik.jpg
-
-Developer. Loves design, walking and the occasional pizza.
+---
+name: "Jan Faracik"
+github: "janfaracik"
+twitter: janfaracik
+linkedin: janfaracik
+---
+Developer. Passion for user experience and design. I enjoy running, music, and the outdoors.

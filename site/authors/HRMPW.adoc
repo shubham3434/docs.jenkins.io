@@ -1,7 +1,5 @@
-= About the Author
-:page-layout: author
-:page-author_name: Patrick Wolf
-:page-twitter: hrmpw
-:page-github: HRMPW
-
-
+---
+name: "Patrick Wolf"
+twitter: hrmpw
+github: HRMPW
+---

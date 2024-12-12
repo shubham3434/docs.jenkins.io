@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Patrick Hynes
-:page-github: hynespm
-
-
+---
+name: "Patrick Hynes"
+github: "hynespm"
+---

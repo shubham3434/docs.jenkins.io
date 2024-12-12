@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Durgadas Kamath
-:page-github: imdurgadas
-
-
+---
+name: "Durgadas Kamath"
+github: "imdurgadas"
+---

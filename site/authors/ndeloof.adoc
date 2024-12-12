@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Nicolas De Loof
-:page-github: ndeloof
-
-
+---
+name: "Nicolas De Loof"
+github: "ndeloof"
+---

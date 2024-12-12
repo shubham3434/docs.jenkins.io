@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Li Lianqiang
-:page-github: xuesea
-
-
+---
+name: "Li Lianqiang"
+github: "xuesea"
+---

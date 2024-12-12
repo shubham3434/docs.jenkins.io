@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Samat Davletshin
-:page-github: samatdav
-
-
+---
+name: "Samat Davletshin"
+github: samatdav
+---

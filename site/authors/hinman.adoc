@@ -1,6 +1,3 @@
-= About the Author
-:page-layout: author
-:page-author_name: Hannah Inman
-
-
-
+---
+name: "Hannah Inman"
+---

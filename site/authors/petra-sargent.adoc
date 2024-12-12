@@ -1,8 +1,5 @@
-= About the Author
-:page-layout: author
-:page-author_name: Petra Sargent
-:page-github: petra-sargent
-:page-twitter: momsthatcode
-
-
-
+---
+name: Petra Sargent
+github: petra-sargent
+twitter: "momsthatcode"
+---

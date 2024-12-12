@@ -1,8 +1,5 @@
-= About the Author
-:page-layout: author
-:page-author_name: Minudika Malshan
-:page-github: minudika
-:page-twitter: minudika
-
-
-
+---
+name: "Minudika Malshan"
+github: minudika
+twitter: minudika
+---

@@ -1,5 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Gabriel Loewen
-:page-github: gabloe
-
+---
+name: "Gabriel Loewen"
+github: "gabloe"
+---

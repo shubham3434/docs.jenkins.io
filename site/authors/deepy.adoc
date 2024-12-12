@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Alex Nordlund
-:page-github: deepy
-
-
+---
+name: "Alex Nordlund"
+github: "deepy"
+---

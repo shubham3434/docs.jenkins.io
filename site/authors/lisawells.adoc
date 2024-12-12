@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Lisa Wells
-:page-github: lisawells
-
-
+---
+name: "Lisa Wells"
+github: lisawells
+---

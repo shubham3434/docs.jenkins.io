@@ -1,6 +1,4 @@
-= About the Author
-:page-layout: author
-:page-author_name: Peter Salvatore
-:page-github: psftw
-
-
+---
+name: "Peter Salvatore"
+github: "psftw"
+---
